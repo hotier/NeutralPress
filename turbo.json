@@ -18,7 +18,24 @@
     "CACHE_BOOTSTRAP_INTERVAL_MS",
     "BUILD_STANDALONE",
     "BUILD_PROFILE",
-    "PRISMA_CLI_PATH"
+    "PRISMA_CLI_PATH",
+    "POSTGRES_URL_NON_POOLING",
+    "POSTGRES_PRISMA_URL",
+    "POSTGRES_HOST",
+    "VITE_NEON_AUTH_URL",
+    "PGPASSWORD",
+    "POSTGRES_USER",
+    "POSTGRES_URL",
+    "POSTGRES_URL_NO_SSL",
+    "PGHOST",
+    "PGDATABASE",
+    "DATABASE_URL_UNPOOLED",
+    "NEON_PROJECT_ID",
+    "PGHOST_UNPOOLED",
+    "POSTGRES_PASSWORD",
+    "NEON_AUTH_BASE_URL",
+    "PGUSER",
+    "POSTGRES_DATABASE"
   ],
   "tasks": {
     "build": {
@@ -39,7 +56,24 @@
         "CACHE_BOOTSTRAP_INTERVAL_MS",
         "BUILD_STANDALONE",
         "BUILD_PROFILE",
-        "PRISMA_CLI_PATH"
+        "PRISMA_CLI_PATH",
+        "POSTGRES_URL_NON_POOLING",
+        "POSTGRES_PRISMA_URL",
+        "POSTGRES_HOST",
+        "VITE_NEON_AUTH_URL",
+        "PGPASSWORD",
+        "POSTGRES_USER",
+        "POSTGRES_URL",
+        "POSTGRES_URL_NO_SSL",
+        "PGHOST",
+        "PGDATABASE",
+        "DATABASE_URL_UNPOOLED",
+        "NEON_PROJECT_ID",
+        "PGHOST_UNPOOLED",
+        "POSTGRES_PASSWORD",
+        "NEON_AUTH_BASE_URL",
+        "PGUSER",
+        "POSTGRES_DATABASE"
       ]
     },
     "lint": {
